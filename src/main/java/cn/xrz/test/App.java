@@ -21,6 +21,7 @@ public class App {
 
     @GetMapping("/")
     public String t(){
-        return "66678";
+//        return "66678";
+        return "Hello JenKins!";
     }
 }
